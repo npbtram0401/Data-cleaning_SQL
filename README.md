@@ -21,7 +21,7 @@ Let's inspect the initial rows to analyze the data in its original format.
 
 The following steps illustrate the data cleaning and preparation process:
 
-Step 1: Create a new table to manipulate and restructure the data without modifying the original dataset.
+Step 1: Create a new table (club_member_info_cleaned) to manipulate and restructure the data without modifying the original dataset.
 
 Step 2: Clean and document the data. There are some possible issues with data: inconsistent letter case, age out of a realistic range, leading and trailing whitespaces, and null values of martial_status and job_title.
 
