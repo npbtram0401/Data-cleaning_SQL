@@ -23,8 +23,6 @@ The following steps illustrate the data cleaning and preparation process:
 
 Step 1: Create a new table to manipulate and restructure the data without modifying the original dataset.
 
-Step 2: Clean and document the data. There are some possible issues with data:
-        - Inconsistent letter case
-        - Age out of realistic range
-        - Leading and trailing whitespaces
-        - Null values
+Step 2: Clean and document the data. There are some possible issues with data: inconsistent letter case, age out of a realistic range, leading and trailing whitespaces, and null values.
+
+Step 3:
